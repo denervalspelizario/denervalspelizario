@@ -8,7 +8,7 @@
   <img width="41%" height="195px"
   src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&theme=dracula" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&theme=shadow_blue" />
 </div>
 
 
