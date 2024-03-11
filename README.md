@@ -9,7 +9,7 @@
 </div>
 
 
-![Dener Pelizario GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=tokionight)
+![Dener Pelizario GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=dracula)
 
 
 <div style="display: inline_block"><br>
