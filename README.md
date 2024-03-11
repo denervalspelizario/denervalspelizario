@@ -9,7 +9,7 @@
 </div>
 
 ![Dener Pelizario GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=donut)](https://github.com/denervalspelizario/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denervalspelizario&repo=github-readme-stats)](https://github.com/denervalspelizario/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
