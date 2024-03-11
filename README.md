@@ -5,10 +5,10 @@
 
 <div align="center">  
 
-  <img width="41%" height="195px"
+  <img width="30%" height="150px"
   src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&theme=shadow_blue" />
+  <img width="30%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&theme=shadow_blue" />
 </div>
 
 
