@@ -4,7 +4,10 @@
 <div align=center widht=100%>
 
 <div align="center">  
-  ![Dener Pelizario GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue)
+
+  <img width="41%" height="195px"
+  src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue" />
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
