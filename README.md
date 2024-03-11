@@ -8,11 +8,8 @@
   <img width="41%" height="195px"
   src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervalspelizario&layout=compact&theme=dracula" />
 </div>
-
-![Dener Pelizario GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=shadow_blue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
