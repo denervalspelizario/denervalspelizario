@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Dener Pelizario 🖐️
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
