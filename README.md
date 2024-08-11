@@ -21,8 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=rose_pine&hide_border" 
 height="300" width="300"/>
-
-
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=denervalspelizario&hide=scss,html,css&locale=en&hide_title=false&layout=compact&langs_count=6&theme=rose_pine&hide_border=false" alt="languages graph"  height="300" width="300"/>
 
 </div>
