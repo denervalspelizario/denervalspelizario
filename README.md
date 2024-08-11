@@ -22,9 +22,11 @@
   src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=rose_pine&hide_border" 
 />
 
-<img  width="250px" height="250px" src="https://streak-stats.demolab.com?user=denervalspelizario&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5"  alt="streak graph"  />
+
   
-<img width="250px" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=denervalspelizario&hide=scss,html,css&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="168" alt="languages graph"  />
+<img width="250px" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=denervalspelizario&hide=scss,html,css&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" alt="languages graph"  />
+
+<img  width="250px" height="250px" src="https://streak-stats.demolab.com?user=denervalspelizario&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5"  alt="streak graph"  />
 </div>
 
 <div align="center" style="width: 100%">
