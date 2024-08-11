@@ -18,7 +18,7 @@
  }
 ```
 <div align="center" style="width: 100%">
-<img width="50%" height="250px"
+<img
   src="https://github-readme-stats.vercel.app/api?username=denervalspelizario&show_icons=true&theme=rose_pine&hide_border" />
 
 <img src="https://streak-stats.demolab.com?user=denervalspelizario&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="168" alt="streak graph"  />
