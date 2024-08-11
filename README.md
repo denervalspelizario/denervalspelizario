@@ -1,11 +1,5 @@
 ## Olá! Eu sou o Dener Pelizario 🖐️
 
-
-<div align="center" style="width: 100%">
-<img src="https://github.com/denervalspelizario/denervalspelizario/blob/main/typing.svg" />
-<!-- Gif created with: https://github.com/denvercoder1/readme-typing-svg -->
-</div>
-
 <br/>
 
 ```csharp
