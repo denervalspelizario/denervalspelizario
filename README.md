@@ -6,8 +6,8 @@
   var denerPelizario = new() {
     Role = "Backend dev",
     Languages = new[] { "C#", "JavaScript", "HTML", "CSS" },
-    Frameworks = new[] { "ASP.NET Core", "Angular",  },
-    Tools = new[] { "Docker", "Git", "GitHub", },
+    Frameworks = new[] { "ASP.NET Core", "Angular"},
+    Tools = new[] { "Docker", "Git", "GitHub"},
     Databases = new[] { "SQLServer", "PostgreSQL", "MySQL" }
  }
 ```
