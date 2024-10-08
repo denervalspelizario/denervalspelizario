@@ -4,7 +4,7 @@
 
 ```csharp
   var denerPelizario = new() {
-    Role = "Backend dev",
+    Role = "FullStack dev",
     Languages = new[] { "C#", "JavaScript", "HTML", "CSS" },
     Frameworks = new[] { "ASP.NET Core", "Angular"},
     Tools = new[] { "Docker", "Git", "GitHub"},
